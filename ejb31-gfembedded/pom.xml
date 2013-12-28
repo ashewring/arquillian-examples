@@ -22,8 +22,8 @@
     <!-- Properties -->
     <properties>
         <version.junit>4.8.2</version.junit>
-        <version.org.jboss.arquillian>1.0.0.Alpha5</version.org.jboss.arquillian>
-        <version.org.glassfish.embedded>3.1-b41</version.org.glassfish.embedded>
+        <version.org.jboss.arquillian>1.0.0.Alpha4.SP1</version.org.jboss.arquillian>
+        <version.org.glassfish.embedded>3.1-b13</version.org.glassfish.embedded>
     </properties>
 
     <!-- Test Dependencies -->
